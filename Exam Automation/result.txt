@@ -1,0 +1,101 @@
+ID, Name, Last Name, Book Type, Score, Correct Answers, Incorrect Answers, Blank Answers, Deducted Answers, School
+433664, Kendall Michaelson, B, 450, 31, 6, 3, 30, Eagle Mountain University Department of Computer Engineering
+290743, Ellis Johnson, A, 450, 32, 8, 0, 30, Broad River University Department of Applied Physics and Applied Mathematics
+776456, Dale Crisp, B, 450, 31, 7, 2, 30, Broad River University Department of Applied Physics and Applied Mathematics
+797851, Johnnie Dabney, B, 435, 31, 8, 1, 29, Broad River University Department of Applied Physics and Applied Mathematics
+691493, Gabby Westley, A, 420, 30, 9, 1, 28, Broad River University Department of Applied Physics and Applied Mathematics
+949024, Sydney Abram, B, 420, 29, 7, 4, 28, Broad River University Department of Applied Physics and Applied Mathematics
+930986, Stacy Pound, A, 420, 29, 6, 5, 28, Meadows University Department of Art History and Archaeology
+420832, Darby Yates, B, 405, 28, 6, 6, 27, Cypress University Department of Art History and Archaeology
+515630, Cherokee Haynes, B, 405, 29, 8, 3, 27, Broad River University Department of Applied Physics and Applied Mathematics
+373232, Reign Massey, B, 405, 29, 8, 3, 27, Broad River University Department of Applied Physics and Applied Mathematics
+901426, Rory Washington, A, 405, 29, 8, 3, 27, Cypress University Department of Art History and Archaeology
+597414, Chandler Abrams, A, 405, 29, 8, 3, 27, Meadows University Department of Art History and Archaeology
+270866, Jools Waller, A, 405, 29, 9, 2, 27, Broad River University Department of Applied Physics and Applied Mathematics
+688259, Dallas Ingram, A, 405, 28, 7, 5, 27, Broad River University Department of Applied Physics and Applied Mathematics
+865318, Pip Waldroup, B, 390, 28, 8, 4, 26, Meadows University Department of Art History and Archaeology
+721954, Arden Frost, B, 390, 28, 9, 3, 26, Cypress University Department of Art History and Archaeology
+292955, Blythe Beckett, B, 390, 28, 11, 1, 26, Broad River University Department of Applied Physics and Applied Mathematics
+270024, Kim Tatton, A, 375, 26, 7, 7, 25, Meadows University Department of Art History and Archaeology
+199304, Jackie Thorburn, B, 375, 27, 11, 2, 25, Cypress University Department of Art History and Archaeology
+936822, Angel Paige, A, 375, 27, 9, 4, 25, Cypress University Department of Art History and Archaeology
+950336, Hartley Purcell, B, 375, 27, 10, 3, 25, Broad River University Department of Applied Physics and Applied Mathematics
+325729, Temple Akerman, A, 375, 27, 11, 2, 25, Meadows University Department of Art History and Archaeology
+872354, Cortney Chapman, A, 375, 27, 10, 3, 25, Broad River University Department of Applied Physics and Applied Mathematics
+426522, Logan Paxton, B, 375, 27, 11, 2, 25, Broad River University Department of Applied Physics and Applied Mathematics
+473903, Lavern Vann, B, 375, 27, 8, 5, 25, Cypress University Department of Art History and Archaeology
+836581, Kasey Sadler, B, 360, 26, 10, 4, 24, Broad River University Department of Applied Physics and Applied Mathematics
+688703, Shaye Tindall, B, 360, 27, 12, 1, 24, Cypress University Department of Art History and Archaeology
+413404, Channing Bowman, B, 360, 26, 9, 5, 24, Broad River University Department of Applied Physics and Applied Mathematics
+407093, Jojo Wallace, B, 360, 26, 10, 4, 24, Broad River University Department of Applied Physics and Applied Mathematics
+111775, Billie Fry, B, 360, 26, 10, 4, 24, Meadows University Department of Art History and Archaeology
+438329, Marlowe Holmes, B, 345, 26, 12, 2, 23, Great Oak University Department of Computer Engineering
+678407, Wisdom Yates, A, 345, 26, 12, 2, 23, Sunset University Department of Art History and Archaeology
+201910, Chris Presley, A, 345, 26, 13, 1, 23, Broad River University Department of Applied Physics and Applied Mathematics
+766042, Cedar Daniel, B, 345, 26, 12, 2, 23, Meadows University Department of Art History and Archaeology
+722714, Sheridan Mann, B, 345, 26, 12, 2, 23, Meadows University Department of Art History and Archaeology
+559994, Fortune Huxley, B, 345, 26, 13, 1, 23, Meadows University Department of Art History and Archaeology
+217678, Shaye Smalls, A, 345, 25, 11, 4, 23, Sunset University Department of Art History and Archaeology
+943272, Jimmie Roach, B, 345, 25, 10, 5, 23, Meadows University Department of Art History and Archaeology
+649884, Marlyn James, A, 345, 25, 10, 5, 23, Broad River University Department of Applied Physics and Applied Mathematics
+586030, Chris Woodward, B, 345, 26, 13, 1, 23, Cypress University Department of Art History and Archaeology
+271465, Silver Benton, B, 345, 26, 13, 1, 23, Broad River University Department of Applied Physics and Applied Mathematics
+450353, Ariel Hodson, A, 345, 26, 14, 0, 23, Broad River University Department of Applied Physics and Applied Mathematics
+882741, Hadley Simen, B, 330, 25, 13, 2, 22, Cypress University Department of Art History and Archaeology
+319430, Toby Spearing, A, 330, 25, 12, 3, 22, Great Oak University Department of Computer Engineering
+689288, Page Sands, A, 330, 24, 11, 5, 22, Great Oak University Department of Computer Engineering
+394588, Johnie Priestley, B, 330, 25, 12, 3, 22, Cypress University Department of Art History and Archaeology
+765401, London Brant, A, 330, 25, 15, 0, 22, Cypress University Department of Art History and Archaeology
+958873, Dale Woodrow, B, 330, 25, 14, 1, 22, Cypress University Department of Art History and Archaeology
+979483, Justice Colton, A, 330, 25, 12, 3, 22, Sunset University Department of Art History and Archaeology
+289768, Lennox Corwin, B, 330, 25, 14, 1, 22, Sunset University Department of Art History and Archaeology
+901007, Cameron Mitchell, A, 315, 24, 12, 4, 21, Great Oak University Department of Computer Engineering
+122322, Collyn Lamar, B, 315, 24, 13, 3, 21, Sunset University Department of Art History and Archaeology
+785465, Izzy Samson, B, 315, 23, 11, 6, 21, Laguna Creek University Department of Art History and Archaeology
+512532, Mackenzie Eliot, A, 315, 24, 13, 3, 21, Great Oak University Department of Computer Engineering
+965401, Jules Peck, A, 315, 24, 12, 4, 21, Great Oak University Department of Computer Engineering
+775661, Cary Hawk, B, 315, 24, 12, 4, 21, No University
+692124, Wallis Woodcock, B, 315, 24, 13, 3, 21, Laguna Creek University Department of Art History and Archaeology
+926146, Presley Randall, A, 315, 24, 12, 4, 21, No University
+214831, Ora Minett, B, 315, 24, 14, 2, 21, Laguna Creek University Department of Art History and Archaeology
+886494, Hadley Rounds, A, 315, 23, 11, 6, 21, Laguna Creek University Department of Art History and Archaeology
+341078, Aaren Hopkins, B, 315, 24, 13, 3, 21, No University
+630774, Ellington Sherburn, A, 315, 24, 12, 4, 21, Great Oak University Department of Computer Engineering
+768559, Taylor Robert, A, 315, 24, 13, 3, 21, Great Oak University Department of Computer Engineering
+370742, Charlie Armstrong, B, 315, 24, 15, 1, 21, Great Oak University Department of Computer Engineering
+218111, Jerry Forest, A, 315, 24, 12, 4, 21, Laguna Creek University Department of Art History and Archaeology
+510357, Malone Bissette, A, 315, 24, 14, 2, 21, Laguna Creek University Department of Art History and Archaeology
+882851, Daly Philips, A, 315, 24, 12, 4, 21, Great Oak University Department of Computer Engineering
+545193, Bertie Ewart, B, 315, 24, 12, 4, 21, No University
+524679, Rory Marsh, A, 315, 23, 10, 7, 21, Great Oak University Department of Computer Engineering
+189612, Lacey Hutson, A, 300, 23, 14, 3, 20, No University
+720939, Celestine Jardine, A, 300, 23, 14, 3, 20, Great Oak University Department of Computer Engineering
+578733, September Powers, B, 300, 24, 16, 0, 20, No University
+872204, Raven Mason, A, 300, 23, 14, 3, 20, No University
+838008, Shirley Stacy, A, 300, 23, 12, 5, 20, Great Oak University Department of Computer Engineering
+838608, Jamey Faulkner, A, 300, 23, 15, 2, 20, Great Oak University Department of Computer Engineering
+867082, Marlowe Roydon, B, 300, 23, 14, 3, 20, No University
+359480, Karsyn Mayes, A, 300, 23, 13, 4, 20, Great Oak University Department of Computer Engineering
+628461, Teagan Beckett, A, 300, 23, 15, 2, 20, Great Oak University Department of Computer Engineering
+872501, Jewel Blakesley, A, 300, 23, 14, 3, 20, No University
+845623, Harley Phillips, A, 285, 23, 16, 1, 19, Great Oak University Department of Computer Engineering
+103779, Harlow Randal, B, 285, 22, 15, 3, 19, Great Oak University Department of Computer Engineering
+818429, Devin Alfredson, A, 285, 22, 13, 5, 19, Great Oak University Department of Computer Engineering
+328702, Lynn Baldwin, B, 285, 22, 14, 4, 19, No University
+438870, Cass Elwyn, A, 285, 22, 12, 6, 19, Great Oak University Department of Computer Engineering
+224990, Peyton Simms, A, 285, 23, 16, 1, 19, Great Oak University Department of Computer Engineering
+441035, Lake Russel, B, 270, 21, 15, 4, 18, No University
+487609, Presley Woods, B, 270, 21, 13, 6, 18, Great Oak University Department of Computer Engineering
+810271, Darby Poindexter, B, 270, 22, 16, 2, 18, No University
+903208, Courtney Virgo, A, 270, 21, 13, 6, 18, Great Oak University Department of Computer Engineering
+361219, Lavern Tifft, A, 255, 21, 16, 3, 17, No University
+898056, Sandy Ryley, A, 255, 20, 15, 5, 17, No University
+457034, Dannie Niles, B, 255, 21, 19, 0, 17, No University
+258302, Reign Bloodworth, B, 255, 21, 16, 3, 17, No University
+563063, Averill Sargent, B, 255, 20, 15, 5, 17, No University
+890931, Silver Hoggard, B, 240, 20, 18, 2, 16, No University
+745238, Lennon Eccleston, A, 240, 19, 14, 7, 16, No University
+839755, Malone Simms, B, 240, 20, 16, 4, 16, No University
+724069, Morgan Spooner, A, 240, 19, 15, 6, 16, No University
+443337, Kim Osborne, B, 240, 19, 15, 6, 16, No University
+710606, Tracy Hughes, B, 195, 18, 21, 1, 13, No University
